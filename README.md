@@ -16,7 +16,21 @@
 
 
 ##
-![image](https://github.com/anxiokko/anxiokko/assets/161395515/b2453b67-e5e8-4d1a-8f12-f10378035173)
+![image](https://github.com/anxiokko/anxiokko/assets/161395515/4b48f370-dbcd-4879-8dbf-47bd47a7da64)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
