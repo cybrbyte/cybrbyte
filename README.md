@@ -8,7 +8,7 @@
 ![ezgif-7-2d3e13efb0](https://files.catbox.moe/khpg1p.gif)
  　 𖦹 　 **H***E* *ﾉ* *TH***E**Y 
 
-✦ 　 ⁺ 　 ![ezgif-7-ecbd819b62](https://i.imgur.com/Pqwrwwn.png)
+✦ 　 ⁺ 　 ![ezgif-7-ecbd819b62](https://64.media.tumblr.com/597420e68695eb5d2d1ab285d4c7ebeb/tumblr_inline_q1n1krFmA81wd8xpo_500.png)
   　*you're* so **dazzling** ... and so far *away .*
 
 ╰ 　 ᵎ 　 ➣ 　 **IF YOU WANT TO LEARN MORE ABOUT ME PRESS MY LINKS** *!*　 ♡
