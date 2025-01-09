@@ -16,7 +16,7 @@
 
 
 ##
-![image](https://github.com/anxiokko/anxiokko/assets/161395515/4b48f370-dbcd-4879-8dbf-47bd47a7da64)
+![image](https://media.discordapp.net/attachments/1202801961099862026/1326799858945753099/Untitled174_20250108232852.png?ex=6780be29&is=677f6ca9&hm=67a8298e48c272625cd4db41ae676883f3d7e9a115bfefed9f93265252f68ace&=&format=webp&quality=lossless&width=1202&height=482)
 
 
 
