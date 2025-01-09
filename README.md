@@ -6,8 +6,8 @@
 
 ✧੯•́໒꒱ 　 𐂯 　 ｜![ezgif-7-ecbd819b62](https://file.garden/Zj8MKPoh-G9Y8EJE/pixels/blue/IMG_6206.gif)　 . . . **CYB***R* *ﾉ* *RO*R**O** . . .  ![ezgif-7-ecbd819b62](https://file.garden/Zj8MKPoh-G9Y8EJE/pixels/blue/IMG_6207.gif)
  
-![ezgif-7-2d3e13efb0](https://github.com/anxiokko/anxiokko/assets/161395515/d2b5bc75-ce81-4899-a2d8-4ec61e0aed6f)
- 　 ♡⃘ 　 **H***E* *ﾉ* *TH***E**Y 
+![ezgif-7-2d3e13efb0]([https://github.com/anxiokko/anxiokko/assets/161395515/d2b5bc75-ce81-4899-a2d8-4ec61e0aed6f](https://file.garden/Zj8MKPoh-G9Y8EJE/pixels/blue/IMG_4348.gif))
+ 　 𖦹 　 **H***E* *ﾉ* *TH***E**Y 
 
 ✦ 　 ⁺ 　 ![ezgif-7-ecbd819b62](https://github.com/anxiokko/anxiokko/assets/161395515/6d25726c-b24f-465b-9698-3529b94287e8)
   　*you're* so **dazzling** ... and so far *away .*
