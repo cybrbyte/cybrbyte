@@ -4,7 +4,7 @@
 
 
 
-૮ ᐧ ﻌ ᐧ ა 　 ⊟ 　 ｜![ezgif-7-ecbd819b62](https://file.garden/Zj8MKPoh-G9Y8EJE/pixels/blue/IMG_6206.gif)　 ┄ 　  **CYB***R* *ﾉ* *RO*R**O** . . .  ![ezgif-7-ecbd819b62](https://file.garden/Zj8MKPoh-G9Y8EJE/pixels/blue/IMG_6207.gif)
+૮ ᐧ ﻌ ᐧ ა 　 ⊟ 　 ｜![ezgif-7-ecbd819b62](https://file.garden/Zj8MKPoh-G9Y8EJE/pixels/blue/IMG_6206.gif)　 . . . 　  **CYB***R* *ﾉ* *RO*R**O** . . .  ![ezgif-7-ecbd819b62](https://file.garden/Zj8MKPoh-G9Y8EJE/pixels/blue/IMG_6207.gif)
  
 ![ezgif-7-2d3e13efb0](https://github.com/anxiokko/anxiokko/assets/161395515/d2b5bc75-ce81-4899-a2d8-4ec61e0aed6f)
  　 ♡⃘ 　 **H***E* *ﾉ* *TH***E**Y 
