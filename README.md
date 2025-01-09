@@ -10,7 +10,7 @@
  　 ♡⃘ 　 **H***E* *ﾉ* *TH***E**Y 
 
 ✦ 　 ⁺ 　 ![ezgif-7-ecbd819b62](https://github.com/anxiokko/anxiokko/assets/161395515/6d25726c-b24f-465b-9698-3529b94287e8)
-  　*JUST* A BOY WITH **EYE BAGS** AND A PROMISE… OF *LOVE.*
+  　*you're* so **dazzling** ... and so far *away .*
 
 ╰ 　 ᵎ 　 ➣ 　 **IF YOU WANT TO LEARN MORE ABOUT ME PRESS MY LINKS** *!*　 ㄨ
 
