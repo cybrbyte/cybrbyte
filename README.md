@@ -1,4 +1,4 @@
-## ![image](https://github.com/anxiokko/anxiokko/assets/161395515/997db23c-7c17-4758-aba2-6ac7b5ccec0d)
+## ![image](https://media.discordapp.net/attachments/1202801961099862026/1326794269721104404/Untitled174_20250108230640.png?ex=6780b8f4&is=677f6774&hm=71f71a99a400ef3c8b30ccfa2efb1f80608904508caab94c29820867dd2e95c5&=&format=webp&quality=lossless&width=687&height=276)
 
 
 
