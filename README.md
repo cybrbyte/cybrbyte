@@ -8,7 +8,7 @@
 ![ezgif-7-2d3e13efb0](https://files.catbox.moe/khpg1p.gif)
  　 𖦹 　 **H***E* *ﾉ* *TH***E**Y 
 
-✦ 　 ⁺ 　 ![ezgif-7-ecbd819b62](https://github.com/anxiokko/anxiokko/assets/161395515/6d25726c-b24f-465b-9698-3529b94287e8)
+✦ 　 ⁺ 　 ![ezgif-7-ecbd819b62](https://file.garden/Zj8MKPoh-G9Y8EJE/pixels/grayscale/IMG_6462.gif)
   　*you're* so **dazzling** ... and so far *away .*
 
 ╰ 　 ᵎ 　 ➣ 　 **IF YOU WANT TO LEARN MORE ABOUT ME PRESS MY LINKS** *!*　 ♡
