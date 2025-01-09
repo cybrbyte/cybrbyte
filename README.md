@@ -1,5 +1,4 @@
-## ![image](https://media.discordapp.net/attachments/1202801961099862026/1326801157796134933/image_2025-01-08_233345629_optimized_2.png?ex=6780bf5e&is=677f6dde&hm=71b4b83cdbacf297c974ab191bd53bd4d8cf21cea3a414896ad613acb0413b84&=&format=webp&quality=lossless&width=1051&height=421)
-
+## ![image](https://media.discordapp.net/attachments/1202801961099862026/1326801518183059509/image_2025-01-08_233521758_optimized.png?ex=6780bfb4&is=677f6e34&hm=fc0b882a21d6b59573c915d3620d76cacfaea662c43bef0670146e379f7cf1c5&=&format=webp&quality=lossless&width=826&height=331)
 
 
 
