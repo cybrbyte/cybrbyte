@@ -8,7 +8,7 @@
  　 𖦹 　 **h***e* *ﾉ* *th***e**y
 
 ✦ 　 ⁺ 　 ![ezgif-7-ecbd819b62](https://64.media.tumblr.com/597420e68695eb5d2d1ab285d4c7ebeb/tumblr_inline_q1n1krFmA81wd8xpo_500.png)
-  　*you're* so **dazzling** ... and so far *away .*
+  　*thank you* for being a **victim** ... of my shallow *emotions*.
 
 ╰ 　 ᵎ 　 ➣ 　 *if you want to learn more about me press my links* ***!***　 ♡
 
