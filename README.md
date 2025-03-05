@@ -1,5 +1,4 @@
- ![image](https://files.catbox.moe/97zlyn.png)
-
+ ![image](https://files.catbox.moe/nv1t08.png)
 
 
 ♬⋆.˚ 　 ｜![ezgif-7-ecbd819b62](https://file.garden/Zj8MKPoh-G9Y8EJE/pixels/blue/IMG_6206.gif)　 . . . **cyb***r* *ﾉ* *ro*r**o** . . .  ![ezgif-7-ecbd819b62](https://file.garden/Zj8MKPoh-G9Y8EJE/pixels/blue/IMG_6207.gif)
