@@ -7,7 +7,7 @@
  　 𖦹 　 **h***e* *ﾉ* *th***e**y
 
 ✦ 　 ⁺ 　 ![ezgif-7-ecbd819b62](https://64.media.tumblr.com/597420e68695eb5d2d1ab285d4c7ebeb/tumblr_inline_q1n1krFmA81wd8xpo_500.png)
-  　*thank you* for being a **victim** ... of my shallow *emotions*.
+  　*you can make a flower bloom, you can admire it... but you can't tell that flower, 'i want you to understand me.*
 
 ╰ 　 ᵎ 　 ➣ 　 *if you want to learn more about me press my links* ***!***　 ᯓ★
 
