@@ -3,7 +3,7 @@
 </a>
 <!-- Banner  -->
 <a href="[https://github.com/cybrbyte]">
-  <img src="https://files.catbox.moe/b5blgu.png" alt="gojo bnnr"  style="width:100%; height:auto"/>
+  <img src="https://files.catbox.moe/jca7rx.png" alt="gojo bnnr"  style="width:100%; height:auto"/>
 </a>
 
 
