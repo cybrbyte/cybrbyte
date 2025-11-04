@@ -6,22 +6,16 @@
 </br>
 <div align="center">
 <a href="https://github.com/cybrbyte">
-  <img width="180px" 
-       src="https://komarev.com/ghpvc/?username=Glauedson&label=Profile%20views&color=000000&style=for-the-badge" 
-       alt="Visualizações no perfil"
-       title="Total de visualizações"/> 
+  <img width="150px" 
+       src="https://komarev.com/ghpvc/?username=cybrbyte&label=Profile%20views&color=000000&style=for-the-badge" 
+       alt="profile view"
+       title="profile view"/> 
 </a>
-<a href="https://api.github-star-counter.workers.dev/user/Glauedson">
-  <img width="115px" 
-       alt="seguidores" 
-       title="Total de estrelas" 
-       src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=ffffff&logoColor=00000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Glauedson" /> 
-</a>
-<a href="https://github.com/Glauedson?tab=followers">
+<a href="https://github.com/cybrbyte?tab=followers">
   <img width="150px" 
        alt="seguidores" 
-       title="seguidores no GitHub" 
-       src="https://custom-icon-badges.herokuapp.com/github/followers/Glauedson?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
+       title="followers GitHub" 
+       src="https://custom-icon-badges.herokuapp.com/github/followers/cybrbyte?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
 </a>
 </div>
 
