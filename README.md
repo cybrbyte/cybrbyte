@@ -21,7 +21,7 @@
 
 </br>
 
-<img src="https://files.catbox.moe/cz7d9z.png" width=320 align="left">
+<img src="https://files.catbox.moe/cz7d9z.png" width=290 align="left">
 <div align="center">
 
 **Who Am I?**
