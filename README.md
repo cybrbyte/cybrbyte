@@ -45,13 +45,13 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
 
 
 <!-- Gif  -->
-<img align="right" alt="capa-Sobre" width="300" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif"></br>
+<img align="right" alt="gojo spin" width="300" src="https://files.catbox.moe/gt46p2.png"></br>
 
 <!-- A Little More About Me -->
  <h3 align="center">
-  <img src="./assets/icons/user-white.svg" width=15>
+  <img src="https://files.catbox.moe/rc74op.gif" width=15>
   A Little More About Me 
-  <img src="./assets/icons/user-black.svg" width=15>
+  <img src="https://files.catbox.moe/kmywbr.gif" width=15>
  </h3>
 
  ⬛ I enjoy being around more experienced people who challenge me to grow.</br>
