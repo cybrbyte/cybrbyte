@@ -29,13 +29,9 @@
 
 <div align="justify">
 
-I’m a student of `Systems Analysis and Development` at the `Federal Institute of Science and Technology of Ceará` **(IFCE)**.  
-My journey in technology started early: at the age of 14, I began programming small 3D games in Unity, and soon after, I immersed myself in the world of 2D games using GameMaker.  
-At 15, I discovered my creative side and worked as a freelance graphic designer, which also fueled my passion for interfaces and visual aesthetics.
-
-When I turned 18 and entered college, I fully dove into programming.  
-Since then, I have been dedicating my time to studying development in depth, with a special focus on `Fullstack Web Development`.  
-Although I study the complete ecosystem, my real strength and the area I enjoy exploring the most is `Front-End`, where I can combine logic, creativity, and design.
+Hello ! I am Cybr / Roro , you probably found this profile through ponytown . I am a bit nervous around others but still feel free to interact I love making new friends !   
+When I'm on ponytown im most likely on since a friend told me to hop on or I'm on just for the fun of it . ( exclusively found on the 18+ server )
+DO NOT POST MY SKINS ON PINTEREST or steal them , I've dealt with major skin stealing before its a hassle I'm not wanting to go through again. You are always free to ask for inpso though !
 
 </div>
 </br>
