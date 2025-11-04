@@ -35,6 +35,8 @@ When I'm on ponytown im most likely on since a friend told me to hop on or I'm o
 
 English is NOT my first language , always feel free to correct me on grammar and I will gladly fix it ! 
 
+If 
+
 DO NOT POST MY SKINS ON PINTEREST or steal them , I've dealt with major skin stealing before its a hassle I'm not wanting to go through again. You are always free to ask for inpso though !
 
 </div>
@@ -50,7 +52,7 @@ DO NOT POST MY SKINS ON PINTEREST or steal them , I've dealt with major skin ste
 <!-- A Little More About Me -->
  <h3 align="center">
   <img src="https://files.catbox.moe/rc74op.gif" width=15>
-  A Little More About Me 
+  DNI 
   <img src="https://files.catbox.moe/kmywbr.gif" width=15>
  </h3>
 
