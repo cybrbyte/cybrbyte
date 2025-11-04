@@ -1,6 +1,9 @@
+<a href="[https://github.com/cybrbyte]">
+  <img src="https://files.catbox.moe/6s9zvd.png" alt="gojo bnnr"  style="width:100%; height:auto"/>
+</a>
 <!-- Banner  -->
-<a href="https://github.com/Glauedson">
-  <img src="./assets/banner.jpg" alt="Imagem de capa"  style="width:100%; height:auto"/>
+<a href="[https://github.com/cybrbyte]">
+  <img src="https://files.catbox.moe/b5blgu.png" alt="gojo bnnr"  style="width:100%; height:auto"/>
 </a>
 
 
@@ -67,126 +70,8 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
  ⬛ Always willing to help anyone wanting to learn more about Front-End. </br>
  ⬜ Interested in any large-scale project that makes me think.</br>
  ⬛ Minimalism enthusiast.
- ㅤ
-  <!-- spotify and more --> 
-  <div align="center"> 
-
-  <a href="https://mail.google.com/mail/?view=cm&to=glauedson18s@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/glauedson-carlos-89875b258/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a> 
-  <a href="https://open.spotify.com/playlist/3A6d9mNanQ1o9FnjfVvPXl?si=MgjO7Rf3QLKVv5Omr5lXjQ&pi=_cyK3rgQSSicL" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-spotify-11-432546.png?f=webp" width="48px" />
-  </a>
-
-  </div>
-
-</div>
-</br>
-
-
-<!-- github status-->
-<h3 align="center">
-<img src="./assets/icons/github-white.svg" width=18>
- Github Status 
-<img src="./assets/icons/github-black.svg" width=22>
-</h3>
-<br>
-
-
-<!-- Status -->
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Glauedson&theme=graywhite&hide_border=true&locale=eng&mode=weekly)](https://git.io/streak-stats)
-</div>
-
-
-<!-- Academic Training-->
-<h3 align="center">
-<img src="./assets/icons/graduation-white.svg" width=25>
- Academic Training
-<img src="./assets/icons/graduation-black.svg" width=25>
-</h3>
-<br>
-
-<!-- Academic Badge-->
-<div align="center">
-
-[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=IFCE%20Instituto%20Federal%20Do%20Ceará&course=Systems%20Analysis%20and%20Development&degree=Technologist&progress=92%25&img=https://tudoradio.com/img/uploads/radios/67ffaa753f165.png)](https://github.com/Glauedson/github-readme-educational-badge)
-<div>
-
-<!-- My Tech Stack -->
-
-<h3 align="center">
- <img src="./assets/icons/stack-white.svg" width=17>
- My Tech Stack
- <img src="./assets/icons/stack-black.svg" width=20>
-</h3>
-
-<br/>
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,kotlin,cpp" /><br>
-    <img src="https://skillicons.dev/icons?i=react,electron,nodejs,express,tailwind,bootstrap" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,vite,spring,postman,git" /><br>
-    <img src="https://skillicons.dev/icons?i=supabase,github,figma,vercel,notion,md" /><br>
-    <img src="https://skillicons.dev/icons?i=androidstudio,arduino" /><br>
-</div>
-
-<br/>
-
-
-
-
-<!-- My Best Repositories -->
-<div align="center">
-
-  <h3>
-   <img src="./assets/icons/bookmark-white.svg" width="12px">
-   My Best Repositories
-   <img src="./assets/icons/bookmark-black.svg" width="14px">
-  </h3></br>
-
-
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/Glauedson/Lembra-Plus-task-app">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=Lembra-Plus-task-app&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=D9D9D9" />
-    </a>
-    <a href="https://github.com/Glauedson/github-readme-educational-badge">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=github-readme-educational-badge&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
-    </a>
-</div>
-
-
-<div align="center">
-
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/Glauedson/MicroControladores">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=microcontroladores&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
-    </a>
-    <a href="https://github.com/Glauedson/SPACED">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=SPACED&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=D9D9D9" />
-    </a>
-</div>
-
-
-
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/Glauedson/WhatIsTheLanguage">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=WhatIsTheLanguage&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=D9D9D9" />
-    </a>
-    <a href="https://github.com/Glauedson/Tapiocaria">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Glauedson&repo=Tapiocaria&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=fffff" />
-    </a>
-
-
-
-
-
-
-
-
+ 
+ <a href="[https://github.com/cybrbyte]">
+  <img src="https://files.catbox.moe/rmuieh.png" alt="gojo bnnr"  style="width:100%; height:auto"/>
+</a>
 
