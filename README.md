@@ -6,7 +6,7 @@
 </br>
 <div align="center">
 <a href="https://github.com/cybrbyte">
-  <img width="150px" 
+  <img width="140px" 
        src="https://komarev.com/ghpvc/?username=cybrbyte&label=Profile%20views&color=000000&style=for-the-badge" 
        alt="profile view"
        title="profile view"/> 
