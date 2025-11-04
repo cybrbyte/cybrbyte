@@ -33,7 +33,7 @@ Hello ! I am Cybr / Roro , you probably found this profile through ponytown . I 
 
 When I'm on ponytown im most likely on since a friend told me to hop on or I'm on just for the fun of it . ( exclusively found on the 18+ server )
 
-English is NOT my first language , always feel free to correct me on grammar and I will gladly fix it ! Mainly
+English is NOT my first language , always feel free to correct me on grammar and I will gladly fix it ! 
 
 DO NOT POST MY SKINS ON PINTEREST or steal them , I've dealt with major skin stealing before its a hassle I'm not wanting to go through again. You are always free to ask for inpso though !
 
@@ -54,11 +54,11 @@ DO NOT POST MY SKINS ON PINTEREST or steal them , I've dealt with major skin ste
   <img src="https://files.catbox.moe/kmywbr.gif" width=15>
  </h3>
 
- ⬛ I enjoy being around more experienced people who challenge me to grow.</br>
- ⬜ Currently working on projects with React.  </br>
- ⬛ Always willing to help anyone wanting to learn more about Front-End. </br>
- ⬜ Interested in any large-scale project that makes me think.</br>
- ⬛ Minimalism enthusiast.
+ ⬛ f</br>
+ ⬜ f </br>
+ ⬛ f </br>
+ ⬜ f</br>
+ ⬛ f
  
  <a href="[https://github.com/cybrbyte]">
   <img src="https://files.catbox.moe/rmuieh.png" alt="gojo lace 2"  style="width:100%; height:auto"/>
