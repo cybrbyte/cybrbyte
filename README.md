@@ -1,9 +1,9 @@
 <a href="[https://github.com/cybrbyte]">
-  <img src="https://files.catbox.moe/6s9zvd.png" alt="gojo lace"  style="width:50%; height:auto"/>
+  <img src="https://files.catbox.moe/6s9zvd.png" alt="gojo lace"  style="width:100%; height:auto"/>
 </a>
 <!-- Banner  -->
 <a href="[https://github.com/cybrbyte]">
-  <img src="https://files.catbox.moe/b5blgu.png" alt="gojo bnnr"  style="width:50%; height:auto"/>
+  <img src="https://files.catbox.moe/b5blgu.png" alt="gojo bnnr"  style="width:100%; height:auto"/>
 </a>
 
 
@@ -72,6 +72,6 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
  ⬛ Minimalism enthusiast.
  
  <a href="[https://github.com/cybrbyte]">
-  <img src="https://files.catbox.moe/rmuieh.png" alt="gojo lace 2"  style="width:50%; height:auto"/>
+  <img src="https://files.catbox.moe/rmuieh.png" alt="gojo lace 2"  style="width:100%; height:auto"/>
 </a>
 
