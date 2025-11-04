@@ -10,7 +10,7 @@
 <!--  views/stars/followers -->
 </br>
 <div align="center">
-<a href="https://github.com/Glauedson">
+<a href="https://github.com/cybrbyte">
   <img width="180px" 
        src="https://komarev.com/ghpvc/?username=Glauedson&label=Profile%20views&color=000000&style=for-the-badge" 
        alt="Visualizações no perfil"
