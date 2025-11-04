@@ -24,7 +24,7 @@
 <img src="https://files.catbox.moe/cz7d9z.png" width=290 align="left">
 <div align="center">
 
-**MEET CYBR !**
+**MEET CYBR .ᐟ**
 </div>
 
 <div align="justify">
@@ -55,7 +55,7 @@ DO NOT POST MY SKINS ON PINTEREST or steal them , I've dealt with major skin ste
 <!-- A Little More About Me -->
  <h3 align="center">
   <img src="https://files.catbox.moe/rc74op.gif" width=15>
-  DNI 
+  MY LINKS .ᐟ
   <img src="https://files.catbox.moe/kmywbr.gif" width=15>
  </h3>
 
