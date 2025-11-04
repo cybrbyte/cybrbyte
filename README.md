@@ -1,11 +1,6 @@
 <a href="[https://github.com/cybrbyte]">
-  <img src="https://files.catbox.moe/6s9zvd.png" alt="gojo lace"  style="width:100%; height:auto"/>
+  <img src="https://files.catbox.moe/n990rv.png" alt="gojo lace"  style="width:100%; height:auto"/>
 </a>
-<!-- Banner  -->
-<a href="[https://github.com/cybrbyte]">
-  <img src="https://files.catbox.moe/jca7rx.png" alt="gojo bnnr"  style="width:100%; height:auto"/>
-</a>
-
 
 <!--  views/stars/followers -->
 </br>
