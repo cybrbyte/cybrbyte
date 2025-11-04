@@ -21,7 +21,7 @@
 
 </br>
 
-<img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" width=330 align="left">
+<img src="https://files.catbox.moe/cz7d9z.png" width=330 align="left">
 <div align="center">
 
 **Who Am I?**
@@ -45,7 +45,7 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
 
 
 <!-- Gif  -->
-<img align="right" alt="gojo spin" width="300" src="https://files.catbox.moe/gt46p2.png"></br>
+<img align="right" alt="gojo lookup" width="300" src="https://files.catbox.moe/royf0y.png"></br>
 
 <!-- A Little More About Me -->
  <h3 align="center">
