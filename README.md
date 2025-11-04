@@ -38,7 +38,7 @@ English is NOT my first language , always feel free to correct me on grammar and
 DO NOT POST MY SKINS ON PINTEREST or steal them , I've dealt with major skin stealing before its a hassle I'm not wanting to go through again. You are always free to ask for inpso though !
 
 <a href="[https://github.com/cybrbytes]">
-  <img src="https://files.catbox.moe/chlaty.png" alt="gojo lace"  style="width:65%; height:auto"/>
+  <img src="https://files.catbox.moe/chlaty.png" alt="gojo lace"  style="width:45%; height:auto"/>
 </a>
 
 </div>
