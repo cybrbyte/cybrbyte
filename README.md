@@ -47,6 +47,7 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
 <!-- Gif  -->
 <img align="right" alt="gojo lookup" width="300" src="https://files.catbox.moe/royf0y.png"></br>
 
+
 <!-- A Little More About Me -->
  <h3 align="center">
   <img src="https://files.catbox.moe/rc74op.gif" width=15>
