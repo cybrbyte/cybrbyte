@@ -1,21 +1,21 @@
-<a href="[https://github.com/cybrbyte]">
+<a href="[https://github.com/cybrbytes]">
   <img src="https://files.catbox.moe/n990rv.png" alt="gojo lace"  style="width:100%; height:auto"/>
 </a>
 
 <!--  views/stars/followers -->
 </br>
 <div align="center">
-<a href="https://github.com/cybrbyte">
+<a href="https://github.com/cybrbytes">
   <img width="140px" 
-       src="https://komarev.com/ghpvc/?username=cybrbyte&label=Profile%20views&color=000000&style=for-the-badge" 
+       src="https://komarev.com/ghpvc/?username=cybrbytes&label=Profile%20views&color=000000&style=for-the-badge" 
        alt="profile view"
        title="profile view"/> 
 </a>
-<a href="https://github.com/cybrbyte?tab=followers">
+<a href="https://github.com/cybrbytes?tab=followers">
   <img width="150px" 
        alt="seguidores" 
        title="followers GitHub" 
-       src="https://custom-icon-badges.herokuapp.com/github/followers/cybrbyte?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
+       src="https://custom-icon-badges.herokuapp.com/github/followers/cybrbytes?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
 </a>
 </div>
 
@@ -37,7 +37,7 @@ English is NOT my first language , always feel free to correct me on grammar and
 
 DO NOT POST MY SKINS ON PINTEREST or steal them , I've dealt with major skin stealing before its a hassle I'm not wanting to go through again. You are always free to ask for inpso though !
 
-<a href="[https://github.com/cybrbyte]">
+<a href="[https://github.com/cybrbytes]">
   <img src="https://files.catbox.moe/chlaty.png" alt="gojo lace"  style="width:100%; height:auto"/>
 </a>
 
@@ -64,7 +64,7 @@ DO NOT POST MY SKINS ON PINTEREST or steal them , I've dealt with major skin ste
  ⬜ f</br>
  ⬛ f
  
- <a href="[https://github.com/cybrbyte]">
+ <a href="[https://github.com/cybrbytes]">
   <img src="https://files.catbox.moe/rmuieh.png" alt="gojo lace 2"  style="width:100%; height:auto"/>
 </a>
 
