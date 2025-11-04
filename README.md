@@ -21,7 +21,7 @@
 
 </br>
 
-<img src="https://files.catbox.moe/cz7d9z.png" width=330 align="left">
+<img src="https://files.catbox.moe/cz7d9z.png" width=320 align="left">
 <div align="center">
 
 **Who Am I?**
@@ -46,7 +46,6 @@ Although I study the complete ecosystem, my real strength and the area I enjoy e
 
 <!-- Gif  -->
 <img align="right" alt="gojo lookup" width="300" src="https://files.catbox.moe/royf0y.png"></br>
-
 
 <!-- A Little More About Me -->
  <h3 align="center">
