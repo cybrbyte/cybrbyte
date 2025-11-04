@@ -35,9 +35,8 @@ When I'm on ponytown im most likely on since a friend told me to hop on or I'm o
 
 English is NOT my first language , always feel free to correct me on grammar and I will gladly fix it ! 
 
-If 
-
 DO NOT POST MY SKINS ON PINTEREST or steal them , I've dealt with major skin stealing before its a hassle I'm not wanting to go through again. You are always free to ask for inpso though !
+
 
 </div>
 </br>
