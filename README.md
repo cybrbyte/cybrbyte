@@ -23,8 +23,11 @@
 
 <img src="https://files.catbox.moe/cz7d9z.png" width=290 align="left">
 <div align="center">
+  
+<a href="[https://github.com/cybrbytes]">
+  <img src="https://files.catbox.moe/dgvpc0.png" alt="gojo lace"  style="width:30%; height:auto"/>
+</a>
 
-$${\color{lightblue}**MEET \space CYBR .ᐟ**}$$
 </div>
 
 <div align="justify">
