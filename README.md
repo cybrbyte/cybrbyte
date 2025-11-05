@@ -24,12 +24,12 @@
 <img src="https://files.catbox.moe/cz7d9z.png" width=290 align="left">
 <div align="center">
 
-**MEET CYBR .ᐟ**
+$${\color{lightblue}**MEET \space CYBR .ᐟ**}$$
 </div>
 
 <div align="justify">
 
-Hello ! I am <p style="color: #6186F5;">Cybr / Roro</p> , you probably found this profile through ponytown . I am a bit nervous around others but still feel free to interact I love making new friends !
+Hello ! I am Cybr / Roro , you probably found this profile through ponytown . I am a bit nervous around others but still feel free to interact I love making new friends !
 
 When I'm on ponytown im most likely on since a friend told me to hop on or I'm on just for the fun of it . ( exclusively found on the 18+ server near the jjk area )
 
@@ -55,7 +55,7 @@ DO NOT POST MY SKINS ON PINTEREST or steal them , I've dealt with major skin ste
 <!-- A Little More About Me -->
  <h3 align="center">
   <img src="https://files.catbox.moe/rc74op.gif" width=15>
-  MY LINKS .ᐟ
+  $${\color{lightblue}**MY \space LINKS .ᐟ**}$$
   <img src="https://files.catbox.moe/kmywbr.gif" width=15>
  </h3>
 
