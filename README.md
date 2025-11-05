@@ -25,7 +25,7 @@
 <div align="center">
   
 <a href="[https://github.com/cybrbytes]">
-  <img src="https://files.catbox.moe/dgvpc0.png" alt="gojo lace"  style="width:30%; height:auto"/>
+  <img src="https://files.catbox.moe/tc1m7k.png" alt="gojo lace"  style="width:30%; height:auto"/>
 </a>
 
 </div>
@@ -58,7 +58,9 @@ DO NOT POST MY SKINS ON PINTEREST or steal them , I've dealt with major skin ste
 <!-- A Little More About Me -->
  <h3 align="center">
   <img src="https://files.catbox.moe/rc74op.gif" width=15>
-  MY LINKS .ᐟ
+ <a href="[https://github.com/cybrbytes]">
+  <img src="https://files.catbox.moe/2i6jjz.png" alt="gojo lace"  style="width:30%; height:auto"/>
+</a>
   <img src="https://files.catbox.moe/kmywbr.gif" width=15>
  </h3>
 
