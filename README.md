@@ -57,11 +57,11 @@ DO NOT POST MY SKINS ON PINTEREST or steal them , I've dealt with major skin ste
 
 <!-- A Little More About Me -->
  <h3 align="center">
-  <img src="https://files.catbox.moe/rc74op.gif" width=15>
+  <img src="https://files.catbox.moe/rc74op.gif" width=50>
  <a href="[https://github.com/cybrbytes]">
   <img src="https://files.catbox.moe/2i6jjz.png" alt="gojo lace"  style="width:30%; height:auto"/>
 </a>
-  <img src="https://files.catbox.moe/kmywbr.gif" width=15>
+  <img src="https://files.catbox.moe/kmywbr.gif" width=50>
  </h3>
 
  ![image](https://files.catbox.moe/yx17x8.gif) [CAARD](https://cybrbytes.ju.mp) ➔ My main about me . </br>
