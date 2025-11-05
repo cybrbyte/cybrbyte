@@ -55,7 +55,7 @@ DO NOT POST MY SKINS ON PINTEREST or steal them , I've dealt with major skin ste
 <!-- A Little More About Me -->
  <h3 align="center">
   <img src="https://files.catbox.moe/rc74op.gif" width=15>
-  $${\color{lightblue}**MY \space LINKS .ᐟ**}$$
+  **MY LINKS .ᐟ**
   <img src="https://files.catbox.moe/kmywbr.gif" width=15>
  </h3>
 
