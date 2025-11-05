@@ -65,7 +65,7 @@ DO NOT POST MY SKINS ON PINTEREST or steal them , I've dealt with major skin ste
  
  ![image](https://files.catbox.moe/dob47f.png) DISCORD ➔ @CYBRBYTES
  
- ![image](https://files.catbox.moe/nv1t08.png) FOR OTHER SOCIALS ➔ ASK .ᐟ
+ ![image](https://files.catbox.moe/p603ht.gif) FOR OTHER SOCIALS ➔ ASK .ᐟ
  
  <a href="[https://github.com/cybrbytes]">
   <img src="https://files.catbox.moe/rmuieh.png" alt="gojo lace 2"  style="width:100%; height:auto"/>
