@@ -59,9 +59,9 @@ DO NOT POST MY SKINS ON PINTEREST or steal them , I've dealt with major skin ste
   <img src="https://files.catbox.moe/kmywbr.gif" width=15>
  </h3>
 
- ⬛ [CAARD](https://cybrbytes.ju.mp) ➔ MY MAIN ABOUT ME </br>
+ ⬛ [CAARD](https://cybrbytes.ju.mp) ➔ My main about me . </br>
  
- ⬜ [RENTRY](https://rentry.co/satorusprtnr) ➔ MY ABOUT ME FOR PONYTOWN USERS ONLY </br> 
+ ⬜ [RENTRY](https://rentry.co/satorusprtnr) ➔ My about me for ponytown users . </br> 
  
  ⬜ DISCORD ➔ @CYBRBYTES
  
